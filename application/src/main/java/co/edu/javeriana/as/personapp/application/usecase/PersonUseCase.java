@@ -25,7 +25,7 @@ public class PersonUseCase implements PersonInputPort {
 	}
 	
 	@Override
-	public void setPersintence(PersonOutputPort personPersintence) {
+	public void setPersistence(PersonOutputPort personPersintence) {
 		this.personPersintence=personPersintence;
 	}
 
